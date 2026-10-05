@@ -35,4 +35,4 @@ Go · Python · Swift · Terraform · Ansible
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=susunola&amp;bg_color=141210&amp;color=d9d0c3&amp;line=b8a07a&amp;point=f3efe6&amp;area=true&amp;hide_border=true&amp;custom_title=recent%20work" alt="recent work" width="100%"/>
+![stats](https://github-readme-stats.vercel.app/api?username=susunola&show_icons=true&hide_border=true&include_all_commits=true&bg_color=141210&title_color=b8a07a&text_color=d9d0c3&icon_color=b8a07a)
