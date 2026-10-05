@@ -3,10 +3,10 @@
   <rect x="72" y="64" width="36" height="1" fill="#b8a07a"/>
   <text x="120" y="69" fill="#b8a07a" font-family="Georgia, 'Iowan Old Style', Palatino, 'Palatino Linotype', serif" font-size="13" letter-spacing="5">EST. 2018</text>
   <text x="72" y="214" fill="#f3efe6" font-family="Georgia, 'Iowan Old Style', Palatino, 'Palatino Linotype', serif" font-size="92" letter-spacing="-1">susunola</text>
-  <text x="74" y="268" fill="#d9d0c3" font-family="Georgia, 'Iowan Old Style', Palatino, 'Palatino Linotype', serif" font-size="22">基础设施，写成可以交出去的东西。</text>
+  <text x="74" y="268" fill="#d9d0c3" font-family="Georgia, 'Iowan Old Style', Palatino, 'Palatino Linotype', serif" font-size="22">Infrastructure, written so someone else can run it.</text>
   <rect x="72" y="312" width="1136" height="1" fill="#f3efe6" fill-opacity="0.14"/>
   <text x="72" y="360" fill="#b8a07a" font-family="Georgia, 'Iowan Old Style', Palatino, 'Palatino Linotype', serif" font-size="14" letter-spacing="3.2">CLOUD CONTROL PLANE</text>
   <text x="318" y="360" fill="#8a8175" font-family="Georgia, 'Iowan Old Style', Palatino, 'Palatino Linotype', serif" font-size="14" letter-spacing="3.2">LOCAL TOOLS</text>
-  <text x="72" y="430" fill="#8a8175" font-family="Georgia, 'Iowan Old Style', Palatino, 'Palatino Linotype', serif" font-size="16">腾讯云的控制面、证书与合规基线。以及几件不离开这台机器的工具。</text>
+  <text x="72" y="430" fill="#8a8175" font-family="Georgia, 'Iowan Old Style', Palatino, 'Palatino Linotype', serif" font-size="16">Tencent Cloud control plane, certificates, and baselines. Plus tools that never leave the machine.</text>
   <text transform="rotate(-90 1218 300)" x="1218" y="300" fill="#b8a07a" fill-opacity="0.7" font-family="Georgia, 'Iowan Old Style', Palatino, 'Palatino Linotype', serif" font-size="12" letter-spacing="4">SELECTED WORK</text>
 </svg>
